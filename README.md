@@ -1,4 +1,7 @@
 # Weather Data Pipeline with Apache Airflow
+
+![image](https://github.com/Yogesh0612/Weather-Data-Pipeline-with-Apache-Airflow/assets/65183941/a1c26f70-0d7f-4df0-9321-7ab6d49727b3)
+
 This project demonstrates how to build a data pipeline using Apache Airflow to extract, transform, and load (ETL) weather data into an S3 bucket. The pipeline fetches weather data from an API, processes it, and stores the results in CSV format on Amazon S3.
 
 Table of Contents
